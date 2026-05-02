@@ -1,0 +1,17 @@
+Data Privacy Practices for Small Businesses
+
+Small businesses collect more personal data than many owners realize. A simple online store may collect names, email addresses, phone numbers, shipping addresses, payment references, browsing behavior, and customer service messages. A salon or clinic may collect appointment history and sensitive notes. Even when a business is small, customers expect their information to be handled with care. Good privacy practice is therefore both a legal responsibility and a way to build trust.
+
+The first principle is data minimization. A business should collect only the information it needs for a clear purpose. If a newsletter signup only requires an email address, asking for a birth date and home address creates unnecessary risk. If old customer records are no longer needed for tax, warranty, or service reasons, they should be deleted or anonymized. Data that is never collected cannot be stolen, misused, or accidentally exposed.
+
+The second principle is transparency. Customers should be able to understand what information is collected, why it is collected, how long it is kept, and who it is shared with. A privacy notice does not have to be written in legal jargon. It should be accurate, readable, and easy to find. If a business uses third-party tools for payments, email marketing, analytics, scheduling, or customer support, those vendors should be named or described clearly.
+
+Access control is another practical requirement. Employees should only access the data needed for their role. A cashier may need order details but not marketing analytics exports. A marketing contractor may need email campaign statistics but not full payment records. Shared passwords should be avoided. Multi-factor authentication should be enabled for email, payment systems, cloud storage, and admin dashboards because these accounts are common attack targets.
+
+Security basics make a large difference. Devices should be updated, laptops should use disk encryption, and important files should be backed up. Customer data should not be stored in random spreadsheets on personal devices. If a business accepts card payments, it should use reputable payment processors rather than storing card numbers directly. When data is exported for analysis, the export should be deleted when the task is finished.
+
+Small businesses also need an incident plan. The plan should say who investigates a suspected breach, how systems are secured, how affected customers are notified, and when regulators or partners must be contacted. Waiting until an incident happens wastes precious time. Training is part of privacy too. Employees should recognize phishing emails, suspicious login prompts, and requests for customer data that do not match normal procedures.
+
+Privacy is not a one-time document. It is an operating habit. Review forms, apps, vendors, retention periods, and access permissions regularly. The best privacy programs are simple enough for the business to follow consistently and strong enough to protect customers from predictable risks.
+
+Vendor management is another area where small businesses can reduce risk. Before adopting a new software tool, the owner should ask what data the vendor stores, where it is stored, how it is protected, and whether it can be deleted when the contract ends. Businesses should avoid giving broad access to tools that only need limited information. A short vendor checklist can prevent many privacy problems before they become expensive cleanup work.
