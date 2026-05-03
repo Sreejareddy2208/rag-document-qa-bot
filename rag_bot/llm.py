@@ -1,8 +1,8 @@
 from __future__ import annotations
 
 import requests
-from requests import HTTPError
 from openai import AuthenticationError, OpenAI, RateLimitError
+from requests import HTTPError
 
 from rag_bot.config import Settings
 from rag_bot.prompts import SYSTEM_PROMPT

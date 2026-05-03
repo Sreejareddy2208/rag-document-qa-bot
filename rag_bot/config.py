@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import os
 from dataclasses import dataclass
+from pathlib import Path
 
 from dotenv import load_dotenv
 
@@ -16,7 +17,8 @@ class Settings:
 
 
 def load_settings() -> Settings:
-    load_dotenv()
+    env_path = Path(__file__).parent.parent / ".env"
+    load_dotenv(dotenv_path=env_path)
     return Settings(
         llm_provider=os.getenv("LLM_PROVIDER", "ollama").strip().lower(),
         ollama_base_url=os.getenv("OLLAMA_BASE_URL", "http://localhost:11434").rstrip("/"),
